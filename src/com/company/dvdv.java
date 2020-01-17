@@ -4,6 +4,6 @@ public class dvdv {
     //ddddf
 
     public dvdv() {
-        System.out.println ( );
+        System.out.println ("ffgeegegg" );
     }
 }
