@@ -8,6 +8,8 @@ public class dvdv {
     }
 
     public String bark(String s){
-return s;
+        System.out.println ("eewet" );
+
+        return s;
     }
 }
